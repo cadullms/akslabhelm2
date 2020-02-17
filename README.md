@@ -1,6 +1,6 @@
 # AKS Lab
 
-In the lab we have instructions for Helm 2, but in the cloud shell we have Helm 3 installed, which does not work together.
+In the [AKS Day 2 operations lab](https://github.com/Azure/ignite-day2-aks) we have instructions for Helm 2, but in the cloud shell we have Helm 3 installed, which does not work together.
 
 Please do the following (it will install helm2 side-by-side with helm3):
 
